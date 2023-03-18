@@ -1,7 +1,7 @@
 ### Hi fellow GitHub dweller 👋
 
 - 🔭 I’m currently working on Data Analytics and BI with SQL, Python and Tableau. I also <3 web-scraping and automating things with python
-- 🌱 I’m currently learning about Deep Learning with PyTorch
+- 🌱 I’m currently learning Web Development
 
 <!--
 **jeetch/jeetch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
